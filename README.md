@@ -12,8 +12,9 @@ This is a simple Spring Boot application.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/nreddywellness360/taskmaster.git
+git clone https://github.com/Gurram2001/Wellness360-1.git
 ```
+- Click this link to check in [github](https://github.com/Gurram2001/Wellness360-1.git)
 
 ### Build the project
 
